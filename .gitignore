@@ -1,6 +1,7 @@
-*.ome.tiff
+*.ome.tif
 *.tiff
 *.png
 *.feather
 *.csv
 *.json
+*.zip
